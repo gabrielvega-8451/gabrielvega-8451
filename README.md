@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gabrielvega-8451 (Gabriel Vega)
 - 👀 I’m interested in photography
-- 🌱 I’m currently learning everything about Stratum
-- 💞️ I’m looking to collaborate on KRAD as Software Engineer
+- 🌱 I’m currently learning everything about Stratum@KRAD
 - 📫 How to reach me gabriel.vega@8451.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I speak Spanish
